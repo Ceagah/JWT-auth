@@ -1,6 +1,7 @@
 # Backend for JWT authentication
 
 Create a new project, to learn about backend and JWT authentication.
+This is a two-way project. The back is here, and the front is at [Front-End](https://github.com/Ceagah/blog-project)
 
 ## Rules
 For this application, we will use the following rules:
@@ -29,3 +30,4 @@ For this application, we will use the following rules:
  - [Styled-components](https://www.styled-components.com/)
  - [Material UI](https://mui.com/)
  - [Material Icons](https://mui.com/components/material-icons/)
+
