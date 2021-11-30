@@ -1,0 +1,38 @@
+Database :
+- Entidades :
+  - Admin
+  - Usuários
+  - Categorias
+  - Posts
+
+Tables :
+  - User
+    - id
+    - name
+    - email
+    - password
+    - status
+    - created_at
+    - updated_at
+    - deleted_at
+  
+  - Category
+    - id
+    - name
+    - description
+    - status
+    - created_at
+    - updated_at
+    - deleted_at
+
+  - Post
+    - id
+    - title
+    - description
+    - content
+    - status
+    - created_at
+    - updated_at
+    - deleted_at
+    - category_id
+    - user_id
