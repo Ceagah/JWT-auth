@@ -1,6 +1,7 @@
 # Backend for JWT authentication
 
 Create a new project, to learn about backend and JWT authentication.
+
 This is a two-way project. The back is here, and the front is at [Front-End](https://github.com/Ceagah/blog-project)
 
 ## Rules
